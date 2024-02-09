@@ -1,4 +1,2 @@
-tags
-test.sh
-.luarc.json
-nvim
+plugin/packer_compiled.lua
+plugin/packer_compiled.lua
